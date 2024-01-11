@@ -1,4 +1,4 @@
-package viikko1;
+
 
 /**
  * Hello world!
